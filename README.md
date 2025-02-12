@@ -8,7 +8,7 @@ for COSC2968|COSC3053 Foundation of Artificial Intelligence for STEM course.
 Suppose you are employed by a delivery company that uses drones to deliver packages. Your job is to create an AI program that uses the A* (A star) algorithm to determine the optimal flight paths for delivery drones.
 Throughout a metropolis, the drone must deliver packages to several addresses. The city is shown as a grid map, with each cell denoting an open or restricted area. Obstacles such as towering buildings, trees, and airports are known as blocked cells, and they prevent drones from entering them. 
 
-## Result Overview
+## Result Overview ✅
 ### Case 1: Nevada Stage
 ![alt text](Image/Nevada1.png)
 ![alt text](Image/Nevada2.png)
