@@ -24,8 +24,10 @@ ___
 **The provided code includes the following notes:**
 
 > 1. In this program, the location point (address) is represented by coordinates (x, y). Where:
+
 <p style = "text-align: center;">x is the distance of this point along the row-axis from the original.</p>
 <p style = "text-align: center;">y is the distance of this point along the column-axis from the original.</p>
+
 > 2. This visualization map does not have its legend display next to since the Tkinter library does not provide any related built-in functions. Instead, **the legend will be represented in section IV**.  
 > 3. The analysis of the solution's efficiency will be displayed in the corresponding console.
 
