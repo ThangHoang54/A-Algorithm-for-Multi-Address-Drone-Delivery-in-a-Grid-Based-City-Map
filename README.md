@@ -39,11 +39,11 @@ To begin, you'll need to install python 3.12.4, VSCode with all Jupyter extensio
 
 ## Technologies Used 🤖
 
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,vscode" />
-      </a>
-    </p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,vscode" />      
+    </a>
+</p>
 
 ## Addition Note 📱
 **The provided code includes the following notes:**
