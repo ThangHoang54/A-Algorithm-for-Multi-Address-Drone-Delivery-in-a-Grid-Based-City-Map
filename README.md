@@ -34,8 +34,16 @@ To begin, you'll need to install python 3.12.4, VSCode with all Jupyter extensio
 3. Explore the functionalities and provide feedback for improvements.
 
 ## Author 👨‍💻
-___
+
 - [Hoang Minh Thang](https://github.com/ThangHoang54)
+
+## Technologies Used 🤖
+
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,vscode" />
+      </a>
+    </p>
 
 ## Addition Note 📱
 **The provided code includes the following notes:**
