@@ -10,21 +10,23 @@ Throughout a metropolis, the drone must deliver packages to several addresses. T
 
 ## Result Overview ✅
 ### Case 1: Nevada Stage
-![alt text](Image/Nevada1.png)
-![alt text](Image/Nevada2.png)
+|<a href='#'><img src='Image/Nevada1.png" alt="Illustration" width=400px>|<a href='#'><img src="Image/Nevada2.png" alt="Illustration" width=700px>|
+| :---: | :---: |
+| Optimal Delivery Path Visualization | Analyse Delivery Path |
 
 ### Case 2: New York City
-![alt text](Image/NewYork1.png)
-![alt text](Image/NewYork2.png)
+|<a href='#'><img src='Image/NewYork1.png" alt="Illustration" width=400px>|<a href='#'><img src="Image/NewYork2.png" alt="Illustration" width=700px>|
+| :---: | :---: |
+| Optimal Delivery Path Visualization | Analyse Delivery Path |
 
 ### Case 3: Chicago City
-![alt text](Image/Chicago1.png)
-![alt text](Image/Chicago2.png)
-
+|<a href='#'><img src='Image/Chicago1.png" alt="Illustration" width=400px>|<a href='#'><img src="Image/Chicago2.png" alt="Illustration" width=700px>|
+| :---: | :---: |
+| Optimal Delivery Path Visualization | Analyse Delivery Path |
 ### Case 4: Shanghai City
-![alt text](Image/Shanghai1.png)
-![alt text](Image/Shanghai2.png)
-
+|<a href='#'><img src='Image/Shanghai1.png" alt="Illustration" width=400px>|<a href='#'><img src="Image/Shanghai2.png" alt="Illustration" width=700px>|
+| :---: | :---: |
+| Optimal Delivery Path Visualization | Analyse Delivery Path |
 ## Getting Started 🚀
 
 To begin, you'll need to install python 3.12.4, VSCode with all Jupyter extensions installed.
