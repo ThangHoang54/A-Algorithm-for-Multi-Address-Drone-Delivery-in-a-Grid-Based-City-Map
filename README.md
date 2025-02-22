@@ -10,7 +10,7 @@ Throughout a metropolis, the drone must deliver packages to several addresses. T
 
 ## Result Overview ✅
 ### Case 1: Nevada Stage
-|<a href='#'><img src="image/Nevada1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Nevada2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="assets/Nevada1.png" alt="Illustration" width=400px>|<a href='#'><img src="assets/Nevada2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 
@@ -24,7 +24,7 @@ Throughout a metropolis, the drone must deliver packages to several addresses. T
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 ### Case 4: Shanghai City
-|<a href='#'><img src="assets/Shanghai1.png" alt="Illustration" width=400px>|<a href='#'><img src="asssets/Shanghai2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="assets/Shanghai1.png" alt="Illustration" width=400px>|<a href='#'><img src="assets/Shanghai2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 
