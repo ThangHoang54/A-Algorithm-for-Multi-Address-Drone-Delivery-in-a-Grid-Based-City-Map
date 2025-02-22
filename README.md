@@ -10,21 +10,21 @@ Throughout a metropolis, the drone must deliver packages to several addresses. T
 
 ## Result Overview ✅
 ### Case 1: Nevada Stage
-|<a href='#'><img src='image/Nevada1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Nevada2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="image/Nevada1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Nevada2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 
 ### Case 2: New York City
-|<a href='#'><img src='image/NewYork1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/NewYork2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="image/NewYork1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/NewYork2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 
 ### Case 3: Chicago City
-|<a href='#'><img src='image/Chicago1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Chicago2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="image/Chicago1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Chicago2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 ### Case 4: Shanghai City
-|<a href='#'><img src='image/Shanghai1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Shanghai2.png" alt="Illustration" width=700px>|
+|<a href='#'><img src="image/Shanghai1.png" alt="Illustration" width=400px>|<a href='#'><img src="image/Shanghai2.png" alt="Illustration" width=700px>|
 | :---: | :---: |
 | Optimal Delivery Path Visualization | Analyse Delivery Path |
 
