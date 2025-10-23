@@ -1,4 +1,4 @@
-# A-Algorithm-for-Multi-Address-Drone-Delivery-in-a-Grid-Based-City-Map 🚁
+# A* Algorithm for Multi Address Drone Delivery in a Grid Based City Map 🚁
      
 Welcome to the repository! This project serves as the Assignment 2 source code 
 for COSC2968|COSC3053 Foundation of Artificial Intelligence for STEM course.
